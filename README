@@ -1,0 +1,6 @@
+Simple tool for uploading .hex files via wifi to various target boards
+(red, primo, ....)
+
+Use
+
+python ./esp8266_mcuota.py -f <.hex file> -i <esp8266 IP> -s 512
